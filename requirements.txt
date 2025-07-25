@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-matplotlib
 plotly
 scikit-learn
 tensorflow==2.12.0
 keras==2.12.0
+matplotlib==3.7.1
